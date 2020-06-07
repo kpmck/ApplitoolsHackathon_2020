@@ -1,0 +1,458 @@
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Bag Count is NOT Visible, Locator Id: STRONG____50, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Correct Logo Image is Shown, Locator Id: IMG____9, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Correct Logo Image is Shown, Locator Id: IMG____9, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Correct Logo Image is Shown, Locator Id: IMG____9, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Correct Logo Image is Shown, Locator Id: IMG____9, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Correct Logo Image is Shown, Locator Id: IMG____9, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Correct Logo Image is Shown, Locator Id: IMG____9, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Correct Logo Image is Shown, Locator Id: IMG____9, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Correct Logo Image is Shown, Locator Id: IMG____9, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Favorites Icon is NOT Visible, Locator CssSelector: .wishlist, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Favorites Icon is NOT Visible, Locator CssSelector: .wishlist, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Favorites Icon is NOT Visible, Locator CssSelector: .wishlist, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Favorites Icon is NOT Visible, Locator CssSelector: .wishlist, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Favorites Icon is NOT Visible, Locator CssSelector: .wishlist, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is NOT Visible, Locator Id: collapse_3, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is NOT Visible, Locator Id: collapse_3, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is NOT Visible, Locator Id: collapse_4, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is NOT Visible, Locator Id: collapse_4, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is NOT Visible, Locator Id: collapse_1, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is NOT Visible, Locator Id: collapse_1, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is Visible, Locator Id: sidebar_filters, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is Visible, Locator Id: sidebar_filters, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Left Grid Filter Section is Visible, Locator Id: sidebar_filters, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Logo is Visible, Locator Id: IMG____9, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Logo is Visible, Locator Id: IMG____9, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Logo is Visible, Locator Id: IMG____9, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Logo is Visible, Locator Id: IMG____9, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Logo is Visible, Locator Id: IMG____9, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Logo is Visible, Locator Id: IMG____9, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Logo is Visible, Locator Id: IMG____9, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Logo is Visible, Locator Id: IMG____9, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Main Menu is NOT Visible, Locator CssSelector: .main-menu, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Main Menu is Visible, Locator CssSelector: .main-menu, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Main Menu is Visible, Locator CssSelector: .main-menu, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Main Menu is Visible, Locator CssSelector: .main-menu, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Favorite Icon is NOT Visible, Locator CssSelector: .ti-heart, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Favorite Icon is NOT Visible, Locator CssSelector: .ti-heart, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Favorite Icon is NOT Visible, Locator CssSelector: .ti-heart, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Favorite Icon is Visible, Locator CssSelector: .ti-heart, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Favorite Icon is Visible, Locator CssSelector: .ti-heart, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Favorite Icon is Visible, Locator CssSelector: .ti-heart, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Favorite Icon is Visible, Locator CssSelector: .ti-heart, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Favorite Icon is Visible, Locator CssSelector: .ti-heart, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Product Card Shopping Cart Icon is NOT Visible, Locator CssSelector: .ti-shopping-cart, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Shopping Cart Icon is NOT Visible, Locator CssSelector: .ti-shopping-cart, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Shopping Cart Icon is NOT Visible, Locator CssSelector: .ti-shopping-cart, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Shopping Cart Icon is Visible, Locator CssSelector: .ti-shopping-cart, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Shopping Cart Icon is Visible, Locator CssSelector: .ti-shopping-cart, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Shopping Cart Icon is Visible, Locator CssSelector: .ti-shopping-cart, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Shopping Cart Icon is Visible, Locator CssSelector: .ti-shopping-cart, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Shopping Cart Icon is Visible, Locator CssSelector: .ti-shopping-cart, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Product Card Shuffle Icon is NOT Visible, Locator CssSelector: .ti-control-shuffle, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Shuffle Icon is NOT Visible, Locator CssSelector: .ti-control-shuffle, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Shuffle Icon is NOT Visible, Locator CssSelector: .ti-control-shuffle, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Card Shuffle Icon is Visible, Locator CssSelector: .ti-control-shuffle, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Shuffle Icon is Visible, Locator CssSelector: .ti-control-shuffle, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Shuffle Icon is Visible, Locator CssSelector: .ti-control-shuffle, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Shuffle Icon is Visible, Locator CssSelector: .ti-control-shuffle, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Card Shuffle Icon is Visible, Locator CssSelector: .ti-control-shuffle, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Product Grid Filter Icon is NOT Visible, Locator Id: ti-filter, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter Icon is NOT Visible, Locator Id: ti-filter, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter Icon is NOT Visible, Locator Id: ti-filter, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter Icon is Visible, Locator Id: ti-filter, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter Icon is Visible, Locator Id: ti-filter, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter Icon is Visible, Locator Id: ti-filter, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter Icon is Visible, Locator Id: ti-filter, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter Icon is Visible, Locator Id: ti-filter, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Product Grid Filter Label is NOT Visible, Locator XPath: //span[text()='Filters'], Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter Label is NOT Visible, Locator XPath: //span[text()='Filters'], Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter Label is NOT Visible, Locator XPath: //span[text()='Filters'], Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter Label is NOT Visible, Locator XPath: //span[text()='Filters'], Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Product Grid Filter Label is Visible, Locator XPath: //span[text()='Filters'], Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter Label is Visible, Locator XPath: //span[text()='Filters'], Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter Label is Visible, Locator XPath: //span[text()='Filters'], Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter Label is Visible, Locator XPath: //span[text()='Filters'], Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter>Grid View Icon is NOT Visible, Locator CssSelector: .ti-view-grid, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter>Grid View Icon is NOT Visible, Locator CssSelector: .ti-view-grid, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter>Grid View Icon is NOT Visible, Locator CssSelector: .ti-view-grid, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter>Grid View Icon is NOT Visible, Locator CssSelector: .ti-view-grid, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter>Grid View Icon is NOT Visible, Locator CssSelector: .ti-view-grid, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Product Grid Filter>Grid View Icon is Visible, Locator CssSelector: .ti-view-grid, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter>Grid View Icon is Visible, Locator CssSelector: .ti-view-grid, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter>Grid View Icon is Visible, Locator CssSelector: .ti-view-grid, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter>List View Icon is NOT Visible, Locator CssSelector: .ti-view-list, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter>List View Icon is NOT Visible, Locator CssSelector: .ti-view-list, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter>List View Icon is NOT Visible, Locator CssSelector: .ti-view-list, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter>List View Icon is NOT Visible, Locator CssSelector: .ti-view-list, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Filter>List View Icon is NOT Visible, Locator CssSelector: .ti-view-list, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Product Grid Filter>List View Icon is Visible, Locator CssSelector: .ti-view-list, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter>List View Icon is Visible, Locator CssSelector: .ti-view-list, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Filter>List View Icon is Visible, Locator CssSelector: .ti-view-list, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Product Card Image is Visible, Locator CssSelector: .img-fluid , Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Product Card Image is Visible, Locator CssSelector: .img-fluid , Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Product Card Image is Visible, Locator CssSelector: .img-fluid , Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Product Card Image is Visible, Locator CssSelector: .img-fluid , Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Product Card Image is Visible, Locator CssSelector: .img-fluid , Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Product Card Image is Visible, Locator CssSelector: .img-fluid , Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Product Card Image is Visible, Locator CssSelector: .img-fluid , Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Product Card Image is Visible, Locator CssSelector: .img-fluid , Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Product Grid Product Card is Visible, Locator CssSelector: .grid_item, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Product Card is Visible, Locator CssSelector: .grid_item, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Product Card is Visible, Locator CssSelector: .grid_item, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Product Card is Visible, Locator CssSelector: .grid_item, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Product Card is Visible, Locator CssSelector: .grid_item, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid Product Card is Visible, Locator CssSelector: .grid_item, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Product Card is Visible, Locator CssSelector: .grid_item, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid Product Card is Visible, Locator CssSelector: .grid_item, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Product Grid is Visible, Locator Id: product_grid, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid is Visible, Locator Id: product_grid, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid is Visible, Locator Id: product_grid, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid is Visible, Locator Id: product_grid, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid is Visible, Locator Id: product_grid, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Product Grid is Visible, Locator Id: product_grid, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid is Visible, Locator Id: product_grid, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product Grid is Visible, Locator Id: product_grid, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Field is NOT Visible, Locator Id: INPUTtext____42, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is NOT Visible, Locator CssSelector: .header-icon_search_custom, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Icon Mobile is Visible, Locator CssSelector: .btn_search_mob, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 2, Test Name: Filter for Black Items, Locator CssSelector: .grid_item h3, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 2, Test Name: Filter for Black Items, Locator CssSelector: .grid_item h3, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter for Black Items, Locator CssSelector: .grid_item h3, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 2, Test Name: Filter for Black Items, Locator CssSelector: .grid_item h3, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter for Black Items, Locator CssSelector: .grid_item h3, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter for Black Items, Locator CssSelector: .grid_item h3, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 2, Test Name: Filter for Black Items, Locator CssSelector: .grid_item h3, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter for Black Items, Locator CssSelector: .grid_item h3, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 2, Test Name: Product Grid Product Card Images Are Displayed, Locator CssSelector: .img-fluid , Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 2, Test Name: Product Grid Product Card Images Are Displayed, Locator CssSelector: .img-fluid , Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Product Grid Product Card Images Are Displayed, Locator CssSelector: .img-fluid , Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 2, Test Name: Product Grid Product Card Images Are Displayed, Locator CssSelector: .img-fluid , Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Product Grid Product Card Images Are Displayed, Locator CssSelector: .img-fluid , Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Product Grid Product Card Images Are Displayed, Locator CssSelector: .img-fluid , Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 2, Test Name: Product Grid Product Card Images Are Displayed, Locator CssSelector: .img-fluid , Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Product Grid Product Card Images Are Displayed, Locator CssSelector: .img-fluid , Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Account Icon is Visible, Locator CssSelector: .dropdown.dropdown-access, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Add to Bag Button is Visible, Locator Id: A__btn__114, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Add to Bag Button is Visible, Locator Id: A__btn__114, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Add to Bag Button is Visible, Locator Id: A__btn__114, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Add to Bag Button is Visible, Locator Id: A__btn__114, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Add to Bag Button is Visible, Locator Id: A__btn__114, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Add to Bag Button is Visible, Locator Id: A__btn__114, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Add to Bag Button is Visible, Locator Id: A__btn__114, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Add to Bag Button is Visible, Locator Id: A__btn__114, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Bag Count is Visible, Locator Id: STRONG____50, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Bag Icon is Visible, Locator CssSelector: .dropdown.dropdown-cart, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Discount Tag is Visible, Locator Id: discount, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Discount Tag is Visible, Locator Id: discount, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Discount Tag is Visible, Locator Id: discount, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Discount Tag is Visible, Locator Id: discount, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Discount Tag is Visible, Locator Id: discount, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Discount Tag is Visible, Locator Id: discount, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Discount Tag is Visible, Locator Id: discount, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Discount Tag is Visible, Locator Id: discount, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Favorites Icon is Visible, Locator CssSelector: .wishlist, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer Contacts Section is Visible, Locator Id: collapse_3, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer Keep In Touch Section is Visible, Locator Id: collapse_4, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer Quick Links Section is Visible, Locator Id: collapse_1, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Footer is Visible, Locator XPath: //footer, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Left Grid Filter Section is NOT Visible, Locator Id: sidebar_filters, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Main Menu is Visible, Locator CssSelector: .main-menu, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Main Menu is Visible, Locator CssSelector: .main-menu, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Main Menu is Visible, Locator CssSelector: .main-menu, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: New Price is Visible, Locator Id: new_price, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: New Price is Visible, Locator Id: new_price, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: New Price is Visible, Locator Id: new_price, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: New Price is Visible, Locator Id: new_price, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: New Price is Visible, Locator Id: new_price, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: New Price is Visible, Locator Id: new_price, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: New Price is Visible, Locator Id: new_price, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: New Price is Visible, Locator Id: new_price, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Old Price is Visible, Locator Id: old_price, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Old Price is Visible, Locator Id: old_price, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Old Price is Visible, Locator Id: old_price, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Old Price is Visible, Locator Id: old_price, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Old Price is Visible, Locator Id: old_price, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Old Price is Visible, Locator Id: old_price, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Old Price is Visible, Locator Id: old_price, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Default Value is 'Small (S)', Locator CssSelector: .current, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Default Value is 'Small (S)', Locator CssSelector: .current, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Default Value is 'Small (S)', Locator CssSelector: .current, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Default Value is 'Small (S)', Locator CssSelector: .current, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Default Value is 'Small (S)', Locator CssSelector: .current, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Default Value is 'Small (S)', Locator CssSelector: .current, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Default Value is 'Small (S)', Locator CssSelector: .current, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Default Value is 'Small (S)', Locator CssSelector: .current, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Image Source is Correct, Locator Id: shoe_img, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Image Source is Correct, Locator Id: shoe_img, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image Source is Correct, Locator Id: shoe_img, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Image Source is Correct, Locator Id: shoe_img, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image Source is Correct, Locator Id: shoe_img, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image Source is Correct, Locator Id: shoe_img, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Image Source is Correct, Locator Id: shoe_img, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image Source is Correct, Locator Id: shoe_img, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Image is Visible, Locator Id: shoe_img, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Image is Visible, Locator Id: shoe_img, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image is Visible, Locator Id: shoe_img, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Image is Visible, Locator Id: shoe_img, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image is Visible, Locator Id: shoe_img, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image is Visible, Locator Id: shoe_img, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Image is Visible, Locator Id: shoe_img, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image is Visible, Locator Id: shoe_img, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Name is Visible, Locator Id: shoe_name, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Name is Visible, Locator Id: shoe_name, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Name is Visible, Locator Id: shoe_name, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Name is Visible, Locator Id: shoe_name, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Name is Visible, Locator Id: shoe_name, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Name is Visible, Locator Id: shoe_name, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Name is Visible, Locator Id: shoe_name, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Name is Visible, Locator Id: shoe_name, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Quantity Default Value is 1, Locator Id: quantity_1, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Quantity Default Value is 1, Locator Id: quantity_1, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity Default Value is 1, Locator Id: quantity_1, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Quantity Default Value is 1, Locator Id: quantity_1, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity Default Value is 1, Locator Id: quantity_1, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity Default Value is 1, Locator Id: quantity_1, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Quantity Default Value is 1, Locator Id: quantity_1, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity Default Value is 1, Locator Id: quantity_1, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Quantity Label is Visible, Locator Id: STRONG____100, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Quantity Label is Visible, Locator Id: STRONG____100, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity Label is Visible, Locator Id: STRONG____100, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Quantity Label is Visible, Locator Id: STRONG____100, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity Label is Visible, Locator Id: STRONG____100, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity Label is Visible, Locator Id: STRONG____100, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Quantity Label is Visible, Locator Id: STRONG____100, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity Label is Visible, Locator Id: STRONG____100, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Quantity is Visible, Locator CssSelector: .numbers-row, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Quantity is Visible, Locator CssSelector: .numbers-row, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity is Visible, Locator CssSelector: .numbers-row, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Quantity is Visible, Locator CssSelector: .numbers-row, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity is Visible, Locator CssSelector: .numbers-row, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity is Visible, Locator CssSelector: .numbers-row, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Quantity is Visible, Locator CssSelector: .numbers-row, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Quantity is Visible, Locator CssSelector: .numbers-row, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Rating is Visible, Locator CssSelector: .rating, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Rating is Visible, Locator CssSelector: .rating, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Rating is Visible, Locator CssSelector: .rating, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Rating is Visible, Locator CssSelector: .rating, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Rating is Visible, Locator CssSelector: .rating, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Rating is Visible, Locator CssSelector: .rating, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Rating is Visible, Locator CssSelector: .rating, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Rating is Visible, Locator CssSelector: .rating, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Review is Visible, Locator Id: P____83, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Review is Visible, Locator Id: P____83, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Review is Visible, Locator Id: P____83, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Review is Visible, Locator Id: P____83, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Review is Visible, Locator Id: P____83, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Review is Visible, Locator Id: P____83, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Review is Visible, Locator Id: P____83, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Review is Visible, Locator Id: P____83, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Size Dropdown is Visible, Locator CssSelector: .nice-select.wide, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Size Dropdown is Visible, Locator CssSelector: .nice-select.wide, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Size Dropdown is Visible, Locator CssSelector: .nice-select.wide, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Size Dropdown is Visible, Locator CssSelector: .nice-select.wide, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Size Dropdown is Visible, Locator CssSelector: .nice-select.wide, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Size Dropdown is Visible, Locator CssSelector: .nice-select.wide, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Size Dropdown is Visible, Locator CssSelector: .nice-select.wide, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Size Dropdown is Visible, Locator CssSelector: .nice-select.wide, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Size Label is Visible, Locator Id: STRONG____90, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Size Label is Visible, Locator Id: STRONG____90, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Size Label is Visible, Locator Id: STRONG____90, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Size Label is Visible, Locator Id: STRONG____90, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Size Label is Visible, Locator Id: STRONG____90, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Size Label is Visible, Locator Id: STRONG____90, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Size Label is Visible, Locator Id: STRONG____90, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Size Label is Visible, Locator Id: STRONG____90, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product Sku is Visible, Locator Id: SMALL____84, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Sku is Visible, Locator Id: SMALL____84, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Sku is Visible, Locator Id: SMALL____84, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Sku is Visible, Locator Id: SMALL____84, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Sku is Visible, Locator Id: SMALL____84, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Sku is Visible, Locator Id: SMALL____84, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Product Sku is Visible, Locator Id: SMALL____84, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Sku is Visible, Locator Id: SMALL____84, Browser: Phone, Viewport: 500x700, Device: Phone, Status: Pass
+Task: 3, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Field Placeholder Contains Text 'Search over 10,000 shoes!', Locator Id: INPUTtext____42, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Field is Visible, Locator Id: INPUTtext____42, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Icon Desktop is Visible, Locator CssSelector: .header-icon_search_custom, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Chrome, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Edge, Viewport: 1200x700, Device: Desktop, Status: Pass
+Task: 3, Test Name: Search Icon Mobile is NOT Visible, Locator CssSelector: .btn_search_mob, Browser: Firefox, Viewport: 1200x700, Device: Desktop, Status: Pass
