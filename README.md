@@ -1,9 +1,9 @@
 # ApplitoolsHackathon_2020
 ## Prerequisites
 1. Visual Studio 2019 or Visual Studio 2017 with .NET Framework 4.7.2
-2. MS Edge Browser Version v83.0.478.45
-3. Chrome Browser Version v83
-4. Firefox Browser Version > v60
+2. MS Edge Browser v83.0.478.45
+3. Chrome Browser v83
+4. Firefox Browser > v60
 
 ## Getting Started
 1. Clone the repository `git clone https://github.com/kpmck/ApplitoolsHackathon_2020.git`
@@ -11,7 +11,7 @@
     1. Hard-code it on line 16 (`config.SetApiKey("");`) in the *ApplitoolsHackathon_2020\Applitools.Tests\base\ApplitoolsBaseTestClass.cs* class 
     2. Create an environment variable key **APPLITOOLS_API_KEY** and make its value your Applitools API key.
 3. Navigate to the *ApplitoolsHackathon_2020* directory and open *ApplitoolsHackathon_2020.sln* 
-4. [Restore NuGet packages](https://docs.microsoft.com/en-us/nuget/consume-packages/package-restore#:~:text=Enable%20package%20restore%20by%20choosing,and%20select%20Restore%20NuGet%20Packages.).
+4. You may need to [Restore NuGet packages](https://docs.microsoft.com/en-us/nuget/consume-packages/package-restore#:~:text=Enable%20package%20restore%20by%20choosing,and%20select%20Restore%20NuGet%20Packages.).
 5. Build the solution. Close Visual Studio.
 
 ## To Run Tests From Batch File
